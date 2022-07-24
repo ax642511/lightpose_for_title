@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+.idea/
+coco
+default_checkpoints
+_checkpoints
+prepared_train_annotation.pkl
